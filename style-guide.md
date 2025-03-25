@@ -41,3 +41,16 @@ The designs were created to the following widths:
 - Weights: 300, 400, 500
 
 > 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma.
+
+min-width (500px)
+dahsboard {
+    
+}
+profile {
+    gr 1 / 3
+    flex flow column nowrap
+}
+min-width (1110px) 
+dashboard {
+    max-width 111rem
+}
